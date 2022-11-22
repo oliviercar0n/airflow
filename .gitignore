@@ -4,3 +4,4 @@ logs
 .venv
 .ipynb_checkpoints
 __pycache__
+wip_*
